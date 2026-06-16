@@ -13,7 +13,6 @@
 I am currently building autonomous ai agents that goes beyond conversation. My focus is on creating AI agents that can think, plan, and execute real-world workflows as digital assistant.
 
 - Continuously learning and exploring cutting-edge AI technologies
-- Skilled in LLMs, AI automation, and multi-agent architectures
 - Focused to build AI Agents that creates meaningful impact for people and businesses
 - Vision to contribute to a future where AI empowers and inspires humanity
 - Driven by curiosity to tackle complex challenges and develop smart solutions
@@ -47,6 +46,6 @@ My goal is to design ecosystems of intelligent agents that can:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrshaheer.info@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mr-shaheer/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr-shaheer)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrshaheer.info@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-shaheer/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr-shaheer)
 
 </div>
