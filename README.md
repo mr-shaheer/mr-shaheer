@@ -14,17 +14,52 @@ I am currently building autonomous ai agents that go beyond conversation. My foc
 
 My work focuses on evolving scratch LLMs into autonomous systems that go beyond conversation. I see AI agents as the core of a new computing paradigm, where software shifts from static tools to self-directed systems capable of planning and executing complex goals end-to-end.
 
-🧠 What I Do :
+## 🧠 What I Build
 
- • Design and develop autonomous AI agents that can reason, plan, and execute multi-step tasks
- • Build agentic workflows that connect LLMs with tools, APIs, and external systems
- • Engineer memory-enabled systems for context-aware and persistent intelligence
- • Develop scalable automation pipelines powered by AI decision-making
- • Optimize agent reliability, control flow, and production readiness for real-world deployment
+- Design and develop autonomous AI agents that can reason, plan, and execute multi-step tasks
+- Build agentic workflows that connect LLMs with tools, APIs, and external systems
+- Engineer memory-enabled systems for context-aware and persistent intelligence
+- Optimize agent reliability, control flow, and production readiness for real-world deployment
 
-- 🏢 Working at **** in **Pakistan, Islamabad**
+## 🎯 Future Vision
 
-## 🛠️ Tech Stack
+I am intensely learning to design a future where AI systems evolve into Digital FTEs (Full-Time Employees)—not merely assistants, but autonomous contributors embedded within organizational workflows.
+
+My goal is to design ecosystems of intelligent agents that can:
+
+- Operate independently across end-to-end business processes
+- Collaborate seamlessly with humans as dependable digital teammates
+- Continuously learn, adapt, and enhance performance over time
+
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
+</div>
 
 ## 📊 GitHub Stats
 
@@ -34,7 +69,7 @@ My work focuses on evolving scratch LLMs into autonomous systems that go beyond 
 
 </div>
 
-## 🔗 Connect with me
+## 🤝 Let’s Collaborate
 
 <div align="center">
 
