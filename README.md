@@ -12,7 +12,7 @@
 
 #### I am currently building autonomous ai agents that go beyond conversation. My focus is on creating AI agents that can think, plan, and execute real-world workflows as digital assistant.
 
-##### My work focuses on evolving scratch LLMs into autonomous systems that go beyond conversation. I see AI agents as the core of a new computing paradigm, where software shifts from static tools to self-directed systems capable of planning and executing complex goals end-to-end.
+"" My work focuses on evolving scratch LLMs into autonomous systems that go beyond conversation. I see AI agents as the core of a new computing paradigm, where software shifts from static tools to self-directed systems capable of planning and executing complex goals end-to-end. ""
 
 ## 🧠 What I Build
 
