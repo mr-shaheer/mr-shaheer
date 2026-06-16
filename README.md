@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-# Hey, I'm Shaheer!
+# Hey, I'm Shaheer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Agentic%20Ai%20Developer)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I am currently building autonomous ai agents that go beyond conversation. My focus is on creating AI agents that can think, plan, and execute real-world workflows as digital assistant.
+I am currently building autonomous ai agents that goes beyond conversation. My focus is on creating AI agents that can think, plan, and execute real-world workflows as digital assistant.
 
 - Continuously learning and exploring cutting-edge AI technologies
 - Skilled in LLMs, AI automation, and multi-agent architectures
