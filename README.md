@@ -10,9 +10,13 @@
 
 ## 🚀 About Me
 
-#### I am currently building autonomous ai agents that go beyond conversation. My focus is on creating AI agents that can think, plan, and execute real-world workflows as digital assistant.
+I am currently building autonomous ai agents that go beyond conversation. My focus is on creating AI agents that can think, plan, and execute real-world workflows as digital assistant.
 
-"" My work focuses on evolving scratch LLMs into autonomous systems that go beyond conversation. I see AI agents as the core of a new computing paradigm, where software shifts from static tools to self-directed systems capable of planning and executing complex goals end-to-end. ""
+- Continuously learning and exploring cutting-edge AI technologies
+- Skilled in LLMs, AI automation, and multi-agent architectures
+- Focused to build AI Agents that creates meaningful impact for people and businesses
+- Vision to contribute to a future where AI empowers and inspires humanity
+- Driven by curiosity to tackle complex challenges and develop smart solutions
 
 ## 🧠 What I Build
 
@@ -34,31 +38,9 @@ My goal is to design ecosystems of intelligent agents that can:
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
+
+<img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,js,vscode,git,github,mysql,postgresql,sqlite,docker,aws" height="40"/>
+
 </div>
 
 ## 🤝 Let’s Collaborate
