@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-I am currently building autonomous ai agents that go beyond conversation. My focus is on creating AI agents that can think, plan, and execute real-world workflows as digital assistant.
+## I am currently building autonomous ai agents that go beyond conversation. My focus is on creating AI agents that can think, plan, and execute real-world workflows as digital assistant.
 
-My work focuses on evolving scratch LLMs into autonomous systems that go beyond conversation. I see AI agents as the core of a new computing paradigm, where software shifts from static tools to self-directed systems capable of planning and executing complex goals end-to-end.
+### My work focuses on evolving scratch LLMs into autonomous systems that go beyond conversation. I see AI agents as the core of a new computing paradigm, where software shifts from static tools to self-directed systems capable of planning and executing complex goals end-to-end.
 
 ## 🧠 What I Build
 
@@ -59,14 +59,6 @@ My goal is to design ecosystems of intelligent agents that can:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-shaheer&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
 </div>
 
 ## 🤝 Let’s Collaborate
