@@ -26,13 +26,16 @@ I am currently building autonomous ai agents that goes beyond conversation. My f
 
 ## 🎯 Future Vision
 
-I am intensely learning to design a future where AI systems evolve into Digital FTEs (Full-Time Employees)—not merely assistants, but autonomous contributors embedded within organizational workflows.
+I am building toward a future where AI systems evolve into Digital FTEs (Full-Time Employees)—not merely assistants, but autonomous contributors embedded within organizational workflows.
 
 My goal is to design ecosystems of intelligent agents that can:
 
 - Operate independently across end-to-end business processes
+- Deliver 24/7 productivity without downtime or fatigue
 - Collaborate seamlessly with humans as dependable digital teammates
 - Continuously learn, adapt, and enhance performance over time
+
+This vision goes beyond automation—it's about creating scalable, intelligent systems that redefine how work gets done.
 
 ## 💻 Tech Stack
 
