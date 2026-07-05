@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">
 
-# Hey, I'm Shaheer
+# Hi, I'm Shaheer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Agentic%20Ai%20Developer)](https://git.io/typing-svg)
 
@@ -26,7 +26,7 @@ I am currently building autonomous ai agents that goes beyond conversation. My f
 
 ## 🎯 Future Vision
 
-I am building toward a future where AI systems evolve into Digital FTEs (Full-Time Employees)—not merely assistants, but autonomous contributors embedded within organizational workflows.
+I am building toward a future where AI systems evolve into Digital FTEs (Full-Time Employees)—not just assistants, but autonomous contributors deeply embedded within organizational workflows.
 
 My goal is to design ecosystems of intelligent agents that can:
 
@@ -35,7 +35,7 @@ My goal is to design ecosystems of intelligent agents that can:
 - Collaborate seamlessly with humans as dependable digital teammates
 - Continuously learn, adapt, and enhance performance over time
 
-This vision goes beyond automation—it's about creating scalable, intelligent systems that redefine how work gets done.
+This vision goes beyond automation—it's about creating scalable, intelligent systems that fundamentally transform how work gets done.
 
 ## 💻 Tech Stack
 
