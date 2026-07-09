@@ -30,7 +30,7 @@ I am building toward a future where AI systems evolve into Digital FTEs (Full-Ti
 
 My goal is to design ecosystems of intelligent agents that can:
 
-- Operate independently across end-to-end business processes
+- Independently own end-to-end business processes from planning through execution
 - Deliver 24/7 productivity without downtime or fatigue
 - Collaborate seamlessly with humans as dependable digital teammates
 - Continuously learn, adapt, and enhance performance over time
