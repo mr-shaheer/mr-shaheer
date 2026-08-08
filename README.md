@@ -10,32 +10,19 @@
 
 ## 🚀 About Me
 
-I am currently building autonomous ai agents that goes beyond conversation. My focus is on creating AI agents that can think, plan, and execute real-world workflows as digital assistant.
+I am currently building multi-agent AI systems that go beyond simple assistance-systems that execute, decide and deliver real-world outcomes. My focus is on turning agentic AI from experimental prototypes into reliable & production-grade solutions that scale consistently.
 
-- Continuously learning and exploring cutting-edge AI technologies
+- Passionate about turning experimental AI into practical, usable solutions
 - Focused to build AI Agents that creates meaningful impact for people and businesses
-- Vision to contribute to a future where AI empowers and inspires humanity
+- Vision to shape AI that amplifies human capability and real-world impact
 - Driven by curiosity to tackle complex challenges and develop smart solutions
 
 ## 🧠 What I Build
 
-- Design and develop autonomous AI agents that can reason, plan, and execute multi-step tasks
-- Build agentic workflows that connect LLMs with tools, APIs, and external systems
-- Engineer memory-enabled systems for context-aware and persistent intelligence
-- Optimize agent reliability, control flow, and production readiness for real-world deployment
-
-## 🎯 Future Vision
-
-I am building toward a future where AI systems evolve into Digital FTEs (Full-Time Employees)—not just assistants, but autonomous contributors deeply embedded within organizational workflows.
-
-My goal is to design ecosystems of intelligent agents that can:
-
-- Independently own end-to-end business processes from planning through execution
-- Deliver 24/7 productivity without downtime or fatigue
-- Collaborate seamlessly with humans as dependable digital teammates
-- Continuously learn, adapt, and enhance performance over time
-
-This vision goes beyond automation—it's about creating scalable, intelligent systems that fundamentally transform how work gets done.
+- Orchestrated multi-agent pipelines where specialized agents collaborate end-to-end
+- End-to-end agentic system architecture with adaptive workflow design
+- Systems that transition from prototype agents to production-ready
+- Trust and reliability layers for deploying agentic systems in high-stakes environments
 
 ## 💻 Tech Stack
 
