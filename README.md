@@ -8,7 +8,7 @@
 
 </div>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 I am currently building multi-agent AI systems that go beyond simple assistance-systems that execute, decide and deliver real-world outcomes. My focus is on turning agentic AI from experimental prototypes into reliable & production-grade solutions that scale consistently.
 
