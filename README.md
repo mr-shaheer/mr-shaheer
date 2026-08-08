@@ -4,7 +4,7 @@
 
 # Hi, I'm Shaheer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Agentic%20Ai%20Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Agentic%20Ai%20Engineer)](https://git.io/typing-svg)
 
 </div>
 
