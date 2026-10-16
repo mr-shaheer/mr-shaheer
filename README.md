@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I build production-oriented agentic AI systems that go beyond conversational assistance — systems designed to reason, plan, execute, and deliver real-world outcomes.
+I build production-oriented agentic AI systems that go beyond conversational assistance - systems designed to reason, plan, execute, and deliver real-world outcomes.
 
 My focus is on turning agentic AI concepts into reliable, scalable and maintainable software, with an emphasis on multi-agent architectures, intelligent workflows, backend systems and practical agentic applications.
 
@@ -30,8 +30,8 @@ My focus is on turning agentic AI concepts into reliable, scalable and maintaina
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,javascript,typescript,tailwind,html,css,js" height="100"/>
-<img src="https://skillicons.dev/icons?i=vscode,git,mysql,postgresql,sqlite,docker,vercel,aws" height="100"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,javascript,typescript,nodejs,react,tailwind,html,css" height="100"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,mysql,sqlite,postgresql,docker,aws,vercel" height="100"/>
 
 </div>
 
