@@ -31,7 +31,7 @@ My focus is on turning agentic AI concepts into reliable, scalable and maintaina
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,javascript,typescript,nodejs,react,tailwind,html,css" height="100"/>
-<img src="https://skillicons.dev/icons?i=vscode,git,mysql,sqlite,postgresql,docker,aws,vercel" height="100"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,mysql,postgresql,docker,aws,vercel" height="100"/>
 
 </div>
 
